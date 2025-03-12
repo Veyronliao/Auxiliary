@@ -1,0 +1,17 @@
+C:\Users\51201\Desktop\示例\WinFrom中控框架\WinFrom中控框架\bin\Debug\WinFrom中控框架.exe
+C:\Users\51201\Desktop\示例\WinFrom中控框架\WinFrom中控框架\bin\Debug\WinFrom中控框架.pdb
+C:\Users\51201\Desktop\示例\WinFrom中控框架\WinFrom中控框架\obj\Debug\WinFrom中控框架.Form1.resources
+C:\Users\51201\Desktop\示例\WinFrom中控框架\WinFrom中控框架\obj\Debug\WinFrom中控框架.Properties.Resources.resources
+C:\Users\51201\Desktop\示例\WinFrom中控框架\WinFrom中控框架\obj\Debug\WinFrom中控框架.csproj.GenerateResource.cache
+C:\Users\51201\Desktop\示例\WinFrom中控框架\WinFrom中控框架\obj\Debug\WinFrom中控框架.csproj.CoreCompileInputs.cache
+C:\Users\51201\Desktop\示例\WinFrom中控框架\WinFrom中控框架\obj\Debug\WinFrom中控框架.exe
+C:\Users\51201\Desktop\示例\WinFrom中控框架\WinFrom中控框架\obj\Debug\WinFrom中控框架.pdb
+C:\Users\veyron\Desktop\WinFrom中控框架\WinFrom中控框架\bin\Debug\WinFrom中控框架.exe
+C:\Users\veyron\Desktop\WinFrom中控框架\WinFrom中控框架\bin\Debug\WinFrom中控框架.pdb
+C:\Users\veyron\Desktop\WinFrom中控框架\WinFrom中控框架\obj\Debug\WinFrom中控框架.csproj.AssemblyReference.cache
+C:\Users\veyron\Desktop\WinFrom中控框架\WinFrom中控框架\obj\Debug\WinFrom中控框架.Form1.resources
+C:\Users\veyron\Desktop\WinFrom中控框架\WinFrom中控框架\obj\Debug\WinFrom中控框架.Properties.Resources.resources
+C:\Users\veyron\Desktop\WinFrom中控框架\WinFrom中控框架\obj\Debug\WinFrom中控框架.csproj.GenerateResource.cache
+C:\Users\veyron\Desktop\WinFrom中控框架\WinFrom中控框架\obj\Debug\WinFrom中控框架.csproj.CoreCompileInputs.cache
+C:\Users\veyron\Desktop\WinFrom中控框架\WinFrom中控框架\obj\Debug\WinFrom中控框架.exe
+C:\Users\veyron\Desktop\WinFrom中控框架\WinFrom中控框架\obj\Debug\WinFrom中控框架.pdb

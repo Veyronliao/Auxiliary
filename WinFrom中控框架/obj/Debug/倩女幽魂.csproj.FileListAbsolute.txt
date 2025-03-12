@@ -1,0 +1,16 @@
+C:\Users\veyron\Desktop\WinFrom中控框架\WinFrom中控框架\bin\Debug\WinFrom中控框架.exe
+C:\Users\veyron\Desktop\WinFrom中控框架\WinFrom中控框架\bin\Debug\WinFrom中控框架.pdb
+C:\Users\veyron\Desktop\WinFrom中控框架\WinFrom中控框架\obj\Debug\倩女幽魂.csproj.AssemblyReference.cache
+C:\Users\veyron\Desktop\WinFrom中控框架\WinFrom中控框架\obj\Debug\WinFrom中控框架.Form1.resources
+C:\Users\veyron\Desktop\WinFrom中控框架\WinFrom中控框架\obj\Debug\WinFrom中控框架.Properties.Resources.resources
+C:\Users\veyron\Desktop\WinFrom中控框架\WinFrom中控框架\obj\Debug\倩女幽魂.csproj.GenerateResource.cache
+C:\Users\veyron\Desktop\WinFrom中控框架\WinFrom中控框架\obj\Debug\倩女幽魂.csproj.CoreCompileInputs.cache
+C:\Users\veyron\Desktop\WinFrom中控框架\WinFrom中控框架\obj\Debug\WinFrom中控框架.exe
+C:\Users\veyron\Desktop\WinFrom中控框架\WinFrom中控框架\obj\Debug\WinFrom中控框架.pdb
+C:\Users\veyron\Desktop\WinFrom中控框架\WinFrom中控框架\bin\Debug\WinFrom中控框架.exe.config
+C:\Users\veyron\Desktop\WinFrom中控框架\WinFrom中控框架\bin\Debug\libs\dm.dll
+C:\Users\veyron\Desktop\WinFrom中控框架\WinFrom中控框架\bin\Debug\libs\DmReg.dll
+C:\Users\veyron\Desktop\WinFrom中控框架\WinFrom中控框架\bin\Debug\tasking.txt
+C:\Users\veyron\Desktop\WinFrom中控框架\WinFrom中控框架\bin\Debug\tasks.txt
+C:\Users\veyron\Desktop\WinFrom中控框架\WinFrom中控框架\bin\Debug\UserAccount.txt
+C:\Users\veyron\Desktop\WinFrom中控框架\WinFrom中控框架\bin\Debug\App.config
